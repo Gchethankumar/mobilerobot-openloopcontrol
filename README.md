@@ -34,12 +34,7 @@ if __name__ == '__main__':
     ep_robot.initialize(conn_type="ap")
 
     ep_chassis = ep_robot.chassis
-
-    ## Write your code here
-
-
-
-    
+   
     ep_robot.close()
 ```
 ## circular_movement.py:
